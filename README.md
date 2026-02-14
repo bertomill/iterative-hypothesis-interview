@@ -7,7 +7,7 @@ Based on the [Iterative Hypothesis](https://asmartbear.com/customer-development)
 ## Install
 
 ```bash
-npx skills add berto-dev/iterative-hypothesis-interview
+npx skills add bertomill/iterative-hypothesis-interview
 ```
 
 ## What it does
